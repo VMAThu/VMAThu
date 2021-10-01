@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vmathu
-- 📫 Get in touch:
-  . facebook: https://www.facebook.com/anhthu.vominh/
-  . email: anhthuvominh1@gmail.com
+- 📫 Get in touch: anhthuvominh1@gmail.com
 
 <!---
 - 👀 I’m interested in ...
